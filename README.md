@@ -1,15 +1,24 @@
-Work Day Scheduler
-Application Deployed To GitHub Pages
-https://mgyata.github.io/Work-day-scheduler/
+## Work Day Scheduler
 
-Description
-Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. Use Moment.js library to work with date and time
+### Application Deployed To GitHub Pages 
 
-User Story
+https://priyaravi23.github.io/work-day-scheduler/
+
+### Description 
+
+*Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. Use [Moment.js](https://momentjs.com/) library to work with date and time*
+
+### User Story 
+
+```text
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
-Acceptance Criteria
+```
+
+### Acceptance Criteria
+
+```text
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -23,6 +32,9 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
-Mock-Up
+```
+
+### Mock-Up
 The following animation demonstrates the application functionality:
 
+![](assets/images/mock-up.gif)
