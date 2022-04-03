@@ -2,7 +2,7 @@
 
 ### Application Deployed To GitHub Pages 
 
-https://priyaravi23.github.io/work-day-scheduler/
+https://mgyata.github.io/Work-day-scheduler/
 
 ### Description 
 
